@@ -5,12 +5,29 @@ body {
     background-color: #f3dd00;
 }
 
-/* FEJLÉC (Header) - Szín és elrendezés */
+/* A FEJLÉC DOBOZA */
 header {
     background-color: #2c3e50;
     color: white;
-    padding: 20px;
+    padding: 40px 20px;
     text-align: center;
+}
+
+/* A LOGÓ KÉPÉNEK MÉRETE */
+.logo-kep {
+    width: 80px;        /* Itt állítsd be, mekkora legyen a logó */
+    height: auto;
+    margin-bottom: 10px; /* Távolság a felirattól */
+}
+
+/* A FŐCÍM BETŰINEK BEÁLLÍTÁSA */
+header h1 {
+    font-family: 'Georgia', serif; /* Betűtípus: lehet 'Arial', 'Verdana', 'Times New Roman' stb. */
+    font-size: 48px;              /* Betűméret pixelben */
+    font-weight: bold;            /* Vastagság: normal vagy bold */
+    letter-spacing: 2px;          /* Betűk közötti távolság */
+    margin: 0;                    /* Felesleges üres hely törlése */
+    text-transform: uppercase;    /* Csupa NAGYBETŰS lesz tőle */
 }
 
 /* MENÜ (Nav) - Vízszintes lista */
