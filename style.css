@@ -8,7 +8,7 @@ body {
 /* A FEJLÉC DOBOZA */
 header {
     background-color: #5ba702;
-    color: white;
+    color: #c6dd03;
     padding: 40px 20px;
     text-align: center;
 }
@@ -38,7 +38,7 @@ header {
 /* A FŐCÍM BETŰINEK BEÁLLÍTÁSA */
 header h1 {
     font-family: 'Trebuchet MS', serif; /* Betűtípus: lehet 'Arial', 'Verdana', 'Times New Roman' stb. */
-    font-size: 48px;              /* Betűméret pixelben */
+    font-size: 32px;              /* Betűméret pixelben */
     font-weight: bold;            /* Vastagság: normal vagy bold */
     letter-spacing: 2px;          /* Betűk közötti távolság */
     margin: 0;                    /* Felesleges üres hely törlése */
