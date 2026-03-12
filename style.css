@@ -15,9 +15,24 @@ header {
 
 /* A LOGÓ KÉPÉNEK MÉRETE */
 .logo-kep {
-    width: 80px;        /* Itt állítsd be, mekkora legyen a logó */
+    width: 130px;        /* Itt állítsd be, mekkora legyen a logó */
     height: auto;
     margin-bottom: 10px; /* Távolság a felirattól */
+}
+
+/* A LOGÓ KÉPÉNEK STÍLUSA */
+.logo-kep {
+    height: 60px;       /* Fix magasság */
+    width: auto;        /* Arányos szélesség */
+    
+    /* LEKEREKÍTÉS BEÁLLÍTÁSA */
+    border-radius: 50px; /* A sarkok 10 pixel sugarú körívben lesznek lekerekítve */
+    
+    /* Esetleg egy kis keret és árnyék, hogy jobban kiemelkedjen */
+    border: 2px solid rgba(255, 255, 255, 0.5); /* Félátlátszó fehér keret */
+    box-shadow: 0 2px 4px rgba(0,0,0,0.2);     /* Enyhe árnyék */
+    
+    vertical-align: middle; /* Szöveg mellé igazítás */
 }
 
 /* A FŐCÍM BETŰINEK BEÁLLÍTÁSA */
