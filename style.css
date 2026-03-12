@@ -22,7 +22,7 @@ header {
 
 /* A LOGÓ KÉPÉNEK STÍLUSA */
 .logo-kep {
-    height: 60px;       /* Fix magasság */
+    height: 130px;       /* Fix magasság */
     width: auto;        /* Arányos szélesség */
     
     /* LEKEREKÍTÉS BEÁLLÍTÁSA */
