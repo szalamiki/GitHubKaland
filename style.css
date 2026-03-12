@@ -22,7 +22,7 @@ header {
 
 /* A FŐCÍM BETŰINEK BEÁLLÍTÁSA */
 header h1 {
-    font-family: 'Georgia', serif; /* Betűtípus: lehet 'Arial', 'Verdana', 'Times New Roman' stb. */
+    font-family: 'Trebuchet MS', serif; /* Betűtípus: lehet 'Arial', 'Verdana', 'Times New Roman' stb. */
     font-size: 48px;              /* Betűméret pixelben */
     font-weight: bold;            /* Vastagság: normal vagy bold */
     letter-spacing: 2px;          /* Betűk közötti távolság */
