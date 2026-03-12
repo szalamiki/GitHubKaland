@@ -26,7 +26,7 @@ header {
     width: auto;        /* Arányos szélesség */
     
     /* LEKEREKÍTÉS BEÁLLÍTÁSA */
-    border-radius: 50px; /* A sarkok 10 pixel sugarú körívben lesznek lekerekítve */
+    border-radius: 50%; /* A sarkok 10 pixel sugarú körívben lesznek lekerekítve */
     
     /* Esetleg egy kis keret és árnyék, hogy jobban kiemelkedjen */
     border: 2px solid rgba(255, 255, 255, 0.5); /* Félátlátszó fehér keret */
