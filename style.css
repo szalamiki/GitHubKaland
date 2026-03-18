@@ -38,7 +38,7 @@ header {
 /* A FŐCÍM BETŰINEK BEÁLLÍTÁSA */
 header h1 {
     font-family: 'Trebuchet MS', serif; /* Betűtípus: lehet 'Arial', 'Verdana', 'Times New Roman' stb. */
-    font-size: 32px;              /* Betűméret pixelben */
+    font-size: 50px;              /* Betűméret pixelben */
     font-weight: bold;            /* Vastagság: normal vagy bold */
     letter-spacing: 2px;          /* Betűk közötti távolság */
     margin: 0;                    /* Felesleges üres hely törlése */
@@ -90,7 +90,7 @@ img {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    gap: 30px;
+    gap: 20px;
     padding: 20px;
 }
 
