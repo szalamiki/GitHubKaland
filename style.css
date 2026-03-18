@@ -15,14 +15,14 @@ header {
 
 /* A LOGÓ KÉPÉNEK MÉRETE */
 .logo-kep {
-    width: 300px;        /* Itt állítsd be, mekkora legyen a logó */
+    width: 500px;        /* Itt állítsd be, mekkora legyen a logó */
     height: auto;
-    margin-bottom: 10px; /* Távolság a felirattól */
+    margin-bottom: 1px; /* Távolság a felirattól */
 }
 
 /* A LOGÓ KÉPÉNEK STÍLUSA */
 .logo-kep {
-    height: 130px;       /* Fix magasság */
+    height: 300px;       /* Fix magasság */
     width: auto;        /* Arányos szélesség */
     
     /* LEKEREKÍTÉS BEÁLLÍTÁSA */
