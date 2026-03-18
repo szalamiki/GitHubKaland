@@ -119,3 +119,17 @@ footer {
     padding: 10px;
     color: #777;
 }
+/* CSAK A CSEMPE OLDAL HÁTTERE */
+#csempe-oldal {
+    /* Itt add meg a gif fájlod pontos nevét */
+    background-image: url("mathlogo.gif"); 
+    
+    /* Ez a parancs rakja ki csempébe (ismétlődés) */
+    background-repeat: repeat; 
+    
+    /* Beállíthatod a csempék méretét is, ha túl nagy az eredeti gif */
+    background-size: 100px; 
+    
+    /* Fixálhatod is, hogy a görgetésnél ne mozogjon a háttér */
+    background-attachment: fixed; 
+}
