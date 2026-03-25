@@ -22,15 +22,15 @@ header {
 
 /* A LOGÓ KÉPÉNEK STÍLUSA */
 .logo-kep {
-    height: 300px;       /* Fix magasság */
+    height: 500px;       /* Fix magasság */
     width: auto;        /* Arányos szélesség */
     
     /* LEKEREKÍTÉS BEÁLLÍTÁSA */
     border-radius: 50%; /* A sarkok 10 pixel sugarú körívben lesznek lekerekítve */
     
     /* Esetleg egy kis keret és árnyék, hogy jobban kiemelkedjen */
-    border: 20px solid rgba(255, 255, 255, 0.5); /* Félátlátszó fehér keret */
-    box-shadow: 0 2px 4px rgba(0,0,0,0.2);     /* Enyhe árnyék */
+    border: 20px solid rgba(235, 135, 200, 0.3); /* Félátlátszó fehér keret */
+    box-shadow: 0 22px 4px rgba(0,0,0,0.2);     /* Enyhe árnyék */
     
     vertical-align: middle; /* Szöveg mellé igazítás */
 }
