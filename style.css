@@ -108,12 +108,12 @@ figure {
 
 /* A KÉPALÁÍRÁS SZÍNE ÉS STÍLUSA */
 figcaption {
-    color: #5ba702;           /* <--- EZT ÍRD ÁT! Most a fejléc zöldje. */
-    font-size: 14px;          /* Betűméret */
+    color: #ff00a7;           /* <--- EZT ÍRD ÁT! Most a fejléc zöldje. */
+    font-size: 20px;          /* Betűméret */
     font-weight: bold;        /* Vastag betű */
-    margin-top: 8px;          /* Távolság a képtől */
+    margin-top: 20px;          /* Távolság a képtől */
     text-align: center;       /* Középre igazítás */
-    font-family: Arial, sans-serif;
+    font-family: Trebuchet, sans-serif;
 }
 
 /* 4. Kimondottan a galériában lévő képek mérete */
