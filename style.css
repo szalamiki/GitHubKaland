@@ -106,6 +106,16 @@ figure {
     box-shadow: 0 4px 6px rgba(0,0,0,0.1);
 }
 
+/* A KÉPALÁÍRÁS SZÍNE ÉS STÍLUSA */
+figcaption {
+    color: #5ba702;           /* <--- EZT ÍRD ÁT! Most a fejléc zöldje. */
+    font-size: 14px;          /* Betűméret */
+    font-weight: bold;        /* Vastag betű */
+    margin-top: 8px;          /* Távolság a képtől */
+    text-align: center;       /* Középre igazítás */
+    font-family: Arial, sans-serif;
+}
+
 /* 4. Kimondottan a galériában lévő képek mérete */
 figure img {
     width: 100%;
