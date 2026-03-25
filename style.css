@@ -128,7 +128,7 @@ footer {
     background-repeat: repeat; 
     
     /* Beállíthatod a csempék méretét is, ha túl nagy az eredeti gif */
-    background-size: 100px; 
+    background-size: 400px; 
     
     /* Fixálhatod is, hogy a görgetésnél ne mozogjon a háttér */
     background-attachment: fixed; 
