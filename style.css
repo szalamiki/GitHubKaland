@@ -15,7 +15,7 @@ header {
 
 /* A LOGÓ KÉPÉNEK MÉRETE */
 .logo-kep {
-    width: 500px;        /* Itt állítsd be, mekkora legyen a logó */
+    width: 700px;        /* Itt állítsd be, mekkora legyen a logó */
     height: auto;
     margin-bottom: 1px; /* Távolság a felirattól */
 }
